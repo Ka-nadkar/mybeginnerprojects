@@ -1,3 +1,3 @@
 # mybeginnerprojects
 
-I have buil some  beginner-level projects utilizing HTML, CSS, and JavaScript.
+I have build some  beginner-level projects utilizing HTML, CSS, and JavaScript.
